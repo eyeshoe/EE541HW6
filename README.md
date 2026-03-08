@@ -9,7 +9,8 @@ q2/
 └── q2.pdf
 q3/
 ├── q3.py
-└── q3.pdf           # figures and analysis
+├── softmax_weights.hdf5
+└── q3.pdf # figures and analysis
 
 ## Dependencies
 - Python 3.10+
